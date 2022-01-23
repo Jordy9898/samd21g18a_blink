@@ -1,1 +1,1 @@
-# samd21g18a_blink
+Blink on pa17 port.
